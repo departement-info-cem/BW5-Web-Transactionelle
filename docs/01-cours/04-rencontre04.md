@@ -17,7 +17,7 @@
 ## Activités de la séance: 
 ### Théorie:  
 - 🔗[S04 A_Linq.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S04A_Linq.pptx?d=w499d9bd24ea9406db3ae1430f88fa627&csf=1&web=1&e=6a44wK)
-- 🔗[S04 B_Seed.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S04A_Linq.pptx?d=w499d9bd24ea9406db3ae1430f88fa627&csf=1&web=1&e=DZtBF1)
+- 🔗[S04 B_Seed.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S04B_Seed.pptx?d=w3d00d4c7609246cba6fde8666a053c96&csf=1&web=1&e=ztGxSf)
 
 ### Démo guidée:
 - S04_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S04_Demo1)

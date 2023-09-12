@@ -5,7 +5,7 @@
 | Date |          |
 | :--------------- |:---------------:|
 | Mardi 05 septembre | HORAIRE DU LUNDI |
-| Mardi 03 octobre (12) | Examen intra |
+| Vendredi 06 octobre (13) | Examen intra |
 | Vendredi 06 octobre (13) | Remise TP1 |
 | 09 au 13 octobre | Semaine de lecture |
 | Vendredi 21 novembre (24) | Remise TP2 |

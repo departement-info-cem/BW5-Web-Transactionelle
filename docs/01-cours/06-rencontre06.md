@@ -1,32 +1,34 @@
 # Rencontre 06
 
 ## Contenu
-- Modèles de classes complexes Affichage (plusieurs plusieurs) :
-  - master/details
-  - Basket
-  - Créer/modifier plusieurs modèles à partir d'une vue
-- Méthodes asynchrones
-
+- Views et Models Intégration ThirdParty 
+  - TextArea 
+  - Gestion des images 
+- Validation : notifications Toastr 
+  - Rappel ViewBag et ViewData 
 
 ## Ressources et documentation: 
+- [FontAwesome](https://fontawesome.com/)
+- [W3Schools_Input_Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [Summernote (textArea)](https://summernote.org/)
+- [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
+- [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
+- [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
+- [Bogus: Faker](https://github.com/bchavez/Bogus)
 
 #### Complémentaire: 
-- [Méthodes d'extensions](https://docs.microsoft.com/fr-ca/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
-- [MSDN Partial Views](https://docs.microsoft.com/fr-ca/dotnet/framework/data/adonet/ef/language-reference/queries-in-linq-to-entities)
-- [MSDN Views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0)
-- [MSDN View Models](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0#strongly-typed-data-viewmodel) 
+- [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
 
-## Activités de la séance: 
+## Activités de la séance:
 ### Théorie:  
-- 🔗[S06 A_Views_ViewModels_Complexes.pptx](BRISE)
-- 🔗[S06 B_Methodes_Asynchrones.pptx](BRISE)
+- 🔗[S06 A_ChampsSpeciaux_Images_Notifications.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S06_ChampsSpeciaux_Images_Notifications.pptx?d=w33d04e8288834da0a5741f0bc360b58c&csf=1&web=1&e=7mX8iy)
+- 🔗[S06 B_Methodes_Asynchrones.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S06B_Methodes_Asynchrones.pptx?d=w3a38f89f43fd492bb7381c6273a5de05&csf=1&web=1&e=qLF3FD)
 
-### Démo guidée:
-- S06_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S06_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
+- S06_Lab1 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S06_Lab1)
+- S06_Lab2 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S06_Lab2)
 
 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Compléter les laboratoires et le TP1

@@ -1,35 +1,31 @@
-# Rencontre 08
+# Rencontre 07
 
 ## Contenu
-- Views et Models Intégration ThirdParty 
-  - TextArea 
-  - Gestion des images 
-- Validation : notifications Toastr 
-  - Rappel ViewBag et ViewData 
+- Modèles de classes complexes Affichage (plusieurs plusieurs) :
+  - master/details
+  - Basket
+  - Créer/modifier plusieurs modèles à partir d'une vue
+- Méthodes asynchrones
+
 
 ## Ressources et documentation: 
-- [FontAwesome](https://fontawesome.com/)
-- [W3Schools_Input_Types](https://www.w3schools.com/html/html_form_input_types.asp)
-- [Summernote (textArea)](https://summernote.org/)
-- [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
-- [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
-- [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
-- [Bogus: Faker](https://github.com/bchavez/Bogus)
 
 #### Complémentaire: 
-- [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
+- [Méthodes d'extensions](https://docs.microsoft.com/fr-ca/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+- [MSDN Partial Views](https://docs.microsoft.com/fr-ca/dotnet/framework/data/adonet/ef/language-reference/queries-in-linq-to-entities)
+- [MSDN Views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0)
+- [MSDN View Models](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0#strongly-typed-data-viewmodel) 
 
-## Activités de la séance:
+## Activités de la séance: 
 ### Théorie:  
-- 🔗[S07_ChampsSpeciaux_Images_Notifications.pptx](BRISE)
+- 🔗[S07 _Views_ViewModels_Complexes.pptx](BRISE)
 
 ### Démo guidée:
-- S07_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S07_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S07_Lab1 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S07_Lab2 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S07_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
 
 
 ### Travail personnel: 
-- Compléter les laboratoires et le TP1
+- Compléter le laboratoire

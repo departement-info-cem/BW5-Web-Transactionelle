@@ -5,11 +5,11 @@
 | Date |          |
 | :--------------- |:---------------:|
 | Mardi 05 septembre | HORAIRE DU LUNDI |
-| Vendredi 06 octobre (13) | Examen intra |
-| Vendredi 06 octobre (13) | Remise TP1 |
+| Vendredi 06 octobre (12) | Examen intra |
+| Vendredi 06 octobre (12) | Remise TP1 |
 | 09 au 13 octobre | Semaine de lecture |
 | Vendredi 21 novembre (24) | Remise TP2 |
-| Mardi 05 décembre (EC) |Examen final|
+| Examens Communs 12-15 ou 18 décembre |Examen final|
 | Mardi 19 décembre (29) | Remise TP3 |
 
 

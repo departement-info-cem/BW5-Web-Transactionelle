@@ -4,6 +4,9 @@
 [Dossier Partagé](https://cegepedouardmontpetit-my.sharepoint.com/:f:/g/personal/valerie_turgeon_cegepmontpetit_ca/Ev4ITRcpwldAjM-n1KMv0foBOD-QC6h-636O8b6xes0h6Q?e=bKJfMd)
 [GitHub Repositories](https://github.com/orgs/ProgWebTransFC/repositories)
 
+## Grille de vérification mise en place Entity Framework
+![Image Reference](/autres/ListeVerification_EntityFramework.png)
+
 ## Commandes Git pour terminal
 [GitKraken commandes Git](https://cegepedouardmontpetit.sharepoint.com/:b:/r/sites/EDU-E23-420BW5EM-06139/Documents%20partages/General/gitkraken-git-basics-cheat-sheet.pdf?csf=1&web=1&e=oaWhM2)
 ## Génération(scaffolding) d'un contrôleur avec la ligne de commande 

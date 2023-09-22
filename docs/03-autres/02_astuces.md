@@ -5,7 +5,7 @@
 [GitHub Repositories](https://github.com/orgs/ProgWebTransFC/repositories)
 
 ## Grille de vérification mise en place Entity Framework
-![Image Reference](/autres/ListeVerification_EntityFramework.png)
+![Image](/autres/ListeVerification_EntityFramework.png)
 
 ## Commandes Git pour terminal
 [GitKraken commandes Git](https://cegepedouardmontpetit.sharepoint.com/:b:/r/sites/EDU-E23-420BW5EM-06139/Documents%20partages/General/gitkraken-git-basics-cheat-sheet.pdf?csf=1&web=1&e=oaWhM2)

@@ -2,4 +2,4 @@
 
 
 ## Contenu
-- Suite de la correction individuelle en classe du [TP3](/tp_Regulier/tp3)
+- Remise et correction du [TP3](/tp_Regulier/tp3)

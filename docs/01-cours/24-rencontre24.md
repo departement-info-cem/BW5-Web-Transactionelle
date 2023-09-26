@@ -1,27 +1,7 @@
 # Rencontre 24
 
-
-## Contenu
+## TP
 - Remise du [TP2](/tp_Regulier/tp2)
-- Autorisations types: 
-  - Par rôle 
-  - Seed rôles (Initializer) 
-- Annotations dans les Controllers
-
-## Ressources et documentation: 
-
-#### Complémentaire: 
-
-
-## Activités de la séance: 
-### Théorie: 
-- 🔗‍💥[S24_Autorisations.pptx](BRISE) 
-
-### Démo:
-- S24_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
-
-## Laboratoire: 
-- S24_Lab1 ZombieParty - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-
-### Travail personnel: 
-- Compléter le laboratoire
+Présentation du Travail pratique 3
+- Groupes Régulier: 1010 et 1020: [TP3](/tp_Regulier/tp3)
+- Groupe Formation continue 6139: [TP3](/tp_FC/tp3)

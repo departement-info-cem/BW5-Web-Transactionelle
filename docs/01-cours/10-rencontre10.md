@@ -1,31 +1,25 @@
 # Rencontre 10
 
 ## Contenu
-- Introduction à JQuery
-- JS et views
-- HotReload 
+- Internationalisation i18n 
+  - Traduction Views
+  - Traduction ViewModels
 
 ## Ressources et documentation: 
-- [Exemples W3Schools HTML](https://www.w3schools.com/js/js_examples.asp) 
-- [Exemples W3Schools JS](https://htmlcheatsheet.com/js/) 
-- [HTML DOM Style object (w3schools.com)](https://www.w3schools.com/jsref/dom_obj_style.asp) 
-- [JQuery](https://api.jquery.com/)
-- [jQuery Plugin Registry](https://plugins.jquery.com/)  
-- [DataTables.net](https://datatables.net/)
-- [VS Hot Reload](https://learn.microsoft.com/fr-ca/visualstudio/debugger/hot-reload?view=vs-2022)
-- [Bogus: Faker](https://github.com/bchavez/Bogus)
-- [MSDN: Dependency Injection](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-6.0)
+- [Globalisation et localisation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) 
+- [Liste des cultures](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Language_Culture_Names,_Codes,_and_ISO_Values)
+
 #### Complémentaire:
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S10 Javascript JQuery.pptx](BRISE)
+- 🔗[S10_i18n_ViewsControllers.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S10_i18n_ViewsControllers.pptx?d=w8f09f4ee6604453694b1aa2441a83392&csf=1&web=1&e=ZogifR)
 
-### Démo guidée:
-- S10_Demo1 JQuery - Faites un *Fork* - 🔗[GitHub](BRISE)
+### Démo:
+- S10_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
-### Laboratoire: 
-- S10_Lab1 JQuery - 🔗[GitHub](BRISE)
-
-### Travail personnel: 
-- Compléter les laboratoire
+### Laboratoire:  
+- S10_Lab1 ZombieParty - 🔗[GitHub](BRISE)
+ 
+### Travail personnel:
+- Compléter le laboratoire 

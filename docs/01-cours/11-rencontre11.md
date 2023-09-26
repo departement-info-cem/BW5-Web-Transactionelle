@@ -8,7 +8,7 @@
 
 
  ### Laboratoire: 
-- S11_Lab1 PresseMots - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S11_Formatif Intra - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Révision en prévision de l'examen et terminé le TP1

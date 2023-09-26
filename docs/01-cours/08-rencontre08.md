@@ -17,15 +17,14 @@
 - [MSDN View Models](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-5.0#strongly-typed-data-viewmodel) 
 
 ## Activités de la séance: 
-### Théorie:  
+<!-- ### Théorie:  
 - 🔗[S08 _Views_ViewModels_Complexes.pptx](BRISE)
 
 ### Démo guidée:
-- S08_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S08_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE) -->
 
 ### Laboratoire: 
-- S08_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
-
+<!-- - S08_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE) -->
 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Compléter les laboratoires et le TP1

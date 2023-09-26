@@ -1,22 +1,30 @@
 # Rencontre 21
 
 ## Contenu
-- Tests unitaires avec moq:   
-    - Tests de views, viewsModels   
-    - Tests de controllers
+- Authentification MS Identity  
+    - Cookie vs Token  
+    - Modification de la page Register  
+- Seed users DbInitializer 
 
 ## Ressources et documentation: 
-- [Tests unitaires C#](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
-- [Tester la logique des contrôleurs dans ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/fr-fr/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0)
+
+
+#### Complémentaire: 
+
+:::caution
+Si la génération via VS ne fonctionne pas, utilisez la commande suivante dans PowerShell
+:::
+
+<CodeBlock>dotnet aspnet-codegenerator identity --useDefaultUI</CodeBlock>
 
 ## Activités de la séance: 
-### Théorie:  
-- 🔗[S21_TU_ViewsControllers.pptx](BRISE)
+### Théorie: 
+- 🔗[S21_A_Authentification_Identity.pptx](BRISE) 
 
 ### Démo:
 - S21_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
-
-### Laboratoire: 
+- 
+## Laboratoire: 
 - S21_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 

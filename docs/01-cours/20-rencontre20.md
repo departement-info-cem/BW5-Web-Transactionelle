@@ -2,22 +2,22 @@
 
 ## Contenu
 - Tests unitaires avec moq:   
-  - Tests de services (Règles d'affaires) 
-  - Debug de tests 
+    - Tests de views, viewsModels   
+    - Tests de controllers
 
 ## Ressources et documentation: 
-
-#### Complémentaire: 
-
+- [Tests unitaires C#](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
+- [Tester la logique des contrôleurs dans ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/fr-fr/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0)
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S20_TU_Moq](BRISE)
+- 🔗[S20_TU_ViewsControllers.pptx](BRISE)
 
-### Démo guidée:
-- S20_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
-### Laboratoire:
-- S20_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
+### Démo:
+- S20_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+
+### Laboratoire: 
+- S20_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
-- Compléter les laboratoires 
+- Compléter le laboratoire

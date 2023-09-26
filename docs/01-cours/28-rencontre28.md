@@ -1,19 +1,9 @@
 # Rencontre 28
+- Révision suite: Trouver l'erreur
+    - Liaisons: propriétés de navigation 
+    - Views, ViewModels  
+    - Services (règles d’affaires) 
+    - Authentification
+    - Autorisations
 
-
-## Examen
-Contenu Examen final
-
-    Entity Framework
-    Services
-    Dependency Injections (DI)
-    Relations
-    Annotations
-    Validations
-    Tests unitaires
-    i18n
-    ViewModels
-    Views
-    Authentification
-    Autorisations
 

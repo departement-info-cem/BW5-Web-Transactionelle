@@ -1,25 +1,27 @@
 # Rencontre 14
 
 ## Contenu
-- Internationalisation i18n 
-  - Traduction Views
-  - Traduction ViewModels
+- Dédoublement logique d'affaires dans les controllers 
+- Services: règles d'affaires
+- JQuery aller plus loin
 
 ## Ressources et documentation: 
-- [Globalisation et localisation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0) 
-- [Liste des cultures](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Language_Culture_Names,_Codes,_and_ISO_Values)
+
 
 #### Complémentaire:
 
+
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S14_i18n_ViewsControllers.pptx](BRISE)
+- 🔗[S14 Les services.pptx](BRISE)
 
 ### Démo:
 - S14_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire:  
-- S14_Lab1 ZombieParty - 🔗[GitHub](BRISE)
+- S14_Lab1 Services ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S14_Lab2 JQuery ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
  
 ### Travail personnel:
-- Compléter le laboratoire 
+- Compléter les laboratoires
+- Faire les exercices JQuery sur W3School

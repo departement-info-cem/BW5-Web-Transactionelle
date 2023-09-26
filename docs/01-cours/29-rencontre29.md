@@ -1,7 +1,21 @@
-# Rencontre 29
+:::caution
 
+Examens Communs: date à venir...
 
-## Contenu
-- Remise du [TP3](/tp_Regulier/tp3)
-- Correction individuelle en classe du TP3
-Prenez rendez-vous via le Doodle suivant, première arrivé, premier servi. Svp, utiliser votre vrai nom ;) 
+:::
+
+## Examen
+Contenu Examen final 
+
+    Entity Framework
+    Services
+    Dependency Injections (DI)
+    Relations
+    Annotations
+    Validations
+    Tests unitaires
+    i18n
+    ViewModels
+    Views
+    Authentification
+    Autorisations

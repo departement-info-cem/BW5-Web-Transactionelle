@@ -1,29 +1,23 @@
 # Rencontre 26
 
 ## Contenu
-- Déploiement  
-- Révision:
-    - Liaisons: propriétés de navigation 
-    - Views complexes 
-    - Javascript 
-    - Services (règles d’affaires) 
-    - Tests Unitaires
+- Pratique (révision)  
+  - I18n  
+  - Javascript/JQuery Ajax  
+  - Ilogger  
+  - Views complexes, ViewModels  
+- Services: règles d'affaires 
 
 ## Ressources et documentation: 
 
 
-#### Complémentaire:
+#### Complémentaire: 
 
 
 ## Activités de la séance: 
-### Théorie:  
-- 🔗[S26_Deploiement.pptx](BRISE)
+### Laboratoire: 
+- S26_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S26_Lab2 JQuery Ajax - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 - 
-### Démo:
-- S26_Demo1 CrazyBooks - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-- 
-### Laboratoire:
-- S26_Lab1 MovieLand - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-
 ### Travail personnel: 
-- Compléter le laboratoire 
+- Compléter les laboratoires 

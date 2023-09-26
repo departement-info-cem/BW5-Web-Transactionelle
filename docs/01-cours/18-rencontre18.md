@@ -1,9 +1,27 @@
 # Rencontre 18
 
-## TP
-Présentation du Travail pratique 2
-- Groupes Régulier: 1010 et 1020: [TP2](/tp_Regulier/tp2)
-- Groupe Formation continue 6139: [TP2](/tp_FC/tp2)
+## Contenu
+- Introduction aux tests unitaires   
+    - Structures   
+    - Standards et normes   
+    - Types: MSTest/Nunit/Xunit   
+    - Trois A (Arrange, Act, Assert)   
+- Tests de validations 
 
-### Laboratoires: 
-Travail sur le TP2
+## Ressources et documentation: 
+- [Tests unitaires C#](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
+
+#### Complémentaire: 
+- [Glossaire des tests logiciels](BRISE)
+- [Annotations MS Tests vs Xunit vs NUnit](BRISE)
+
+## Activités de la séance: 
+### Théorie:  
+- 🔗[S18 A_TaxonomieDesTests](BRISE)
+- 🔗[S18 B_TestsUnitaires](BRISE)
+
+### Laboratoire guidée:
+- S18_Lab1 Appl_TestsUnitaires - Faites un *Fork* - 🔗[GitHub](BRISE)
+
+### Travail personnel: 
+- Compléter le laboratoire

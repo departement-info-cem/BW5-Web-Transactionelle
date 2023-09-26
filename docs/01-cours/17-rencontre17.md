@@ -1,23 +1,9 @@
 # Rencontre 17
 
-## Contenu
-- Pratique (révision)  
-  - I18n  
-  - Javascript/JQuery Ajax  
-  - Ilogger  
-  - Views complexes, ViewModels  
-- Services: règles d'affaires 
+## TP
+Présentation du Travail pratique 2
+- Groupes Régulier: 1010 et 1020: [TP2](/tp_Regulier/tp2)
+- Groupe Formation continue 6139: [TP2](/tp_FC/tp2)
 
-## Ressources et documentation: 
-
-
-#### Complémentaire: 
-
-
-## Activités de la séance: 
-### Laboratoire: 
-- S17_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-- S17_Lab2 JQuery Ajax - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-- 
-### Travail personnel: 
-- Compléter les laboratoires 
+### Laboratoires: 
+Travail sur le TP2

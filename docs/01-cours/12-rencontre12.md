@@ -1,5 +1,6 @@
 # Rencontre 12
-
+z
+- Remise du [TP1](/tp_Regulier/tp1)
 ## Examen Intra  
 ### Sujets couverts
 - GitHub

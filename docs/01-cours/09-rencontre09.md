@@ -20,7 +20,7 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[09_A_DependencyInjection](BRISE)
+- 🔗[09_A_DependencyInjection.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S09A_DependencyInjection.pptx?d=w0bc63b38039c42c68ab4f83c0db65623&csf=1&web=1&e=kn2iSJ)
 - 🔗[S09_B_i18n_Models.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S09_i18n_Models.pptx?d=w7b3501695c81405f86b22a694d378c31&csf=1&web=1&e=NYos5f)
 
 ### Démo:

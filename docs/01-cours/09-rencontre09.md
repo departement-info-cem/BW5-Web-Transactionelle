@@ -1,7 +1,6 @@
 # Rencontre 09
 
 ## Contenu
-- Remise du [TP1](/tp_Regulier/tp1)
 - Dependency Injection
 - Internationalisation i18n concept 
   - Globalisation 

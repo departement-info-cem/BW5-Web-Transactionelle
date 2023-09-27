@@ -16,10 +16,10 @@
 - 🔗[S10_i18n_ViewsControllers.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S10_i18n_ViewsControllers.pptx?d=w8f09f4ee6604453694b1aa2441a83392&csf=1&web=1&e=ZogifR)
 
 ### Démo:
-- S10_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S10_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S10_Demo1)
 
 ### Laboratoire:  
-- S10_Lab1 ZombieParty - 🔗[GitHub](BRISE)
+- S10_Lab1 ZombieParty - 🔗[GitHub](https://github.com/ProgWebTransFC/S10_Lab1)
  
 ### Travail personnel:
 - Compléter le laboratoire 

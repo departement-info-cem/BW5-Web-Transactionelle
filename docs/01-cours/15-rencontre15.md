@@ -17,15 +17,15 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S15_Introduction_JS_JQuery.pptx](BRISE)
+- 🔗[S15_Introduction_JS_JQuery.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S15_Javascript_Intro.pptx?d=w4bbe79703131488694b6c59fe4f19b71&csf=1&web=1&e=GkJguf)
 - 🔗[W3School JQuery Exercices](https://www.w3schools.com/jquery/jquery_exercises.asp)
 
 ### Démo:
-- S15_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S15_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S15_Demo)
 
 ### Laboratoire: 
 
-- S15_Lab1 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](BRISE)
+- S15_Lab1 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S15_Lab1)
 
 ### Travail personnel: 
 - Compléter les laboratoires

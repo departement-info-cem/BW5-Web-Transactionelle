@@ -1,9 +1,13 @@
 # Rencontre 28
-- Révision suite: Trouver l'erreur
-    - Liaisons: propriétés de navigation 
-    - Views, ViewModels  
-    - Services (règles d’affaires) 
-    - Authentification
-    - Autorisations
+
+- Examen formatif
 
 
+## Activités de la séance: 
+
+
+### Laboratoire:
+- S29_Lab1 MovieLand - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+
+### Travail personnel: 
+- Compléter le laboratoire 

@@ -8,7 +8,7 @@
 | Vendredi 06 octobre (12) | Examen intra |
 | Vendredi 06 octobre (12) | Remise TP1 |
 | 09 au 13 octobre | Semaine de lecture |
-| Vendredi 28 novembre (24) | Remise TP2 |
+| Mardi 5 décembre (24) | Remise TP2 |
 | Examens Communs 12-18 ou 21 décembre |Examen final|
 | Mardi 19 décembre (29) | Remise TP3 |
 

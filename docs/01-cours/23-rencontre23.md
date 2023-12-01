@@ -16,7 +16,7 @@
 ## Activités de la séance: 
 ## Laboratoire: 
 - S23_Lab1 PresseMots - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S23_Lab1)
-- S23_Lab2 PresseMots - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S23_Lab2 PresseMots - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S23_Lab2)
 
 ### Travail personnel: 
 - Compléter le laboratoire

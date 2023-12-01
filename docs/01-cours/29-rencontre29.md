@@ -2,7 +2,7 @@
 
 :::caution
 
-Examens Communs: date à venir...
+Examen final 19 décembre (horaire régulier)
 
 :::
 

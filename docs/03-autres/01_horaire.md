@@ -9,8 +9,8 @@
 | Vendredi 06 octobre (12) | Remise TP1 |
 | 09 au 13 octobre | Semaine de lecture |
 | Mardi 5 décembre (24) | Remise TP2 |
-| Examens Communs 12-18 ou 21 décembre |Examen final|
-| Mardi 19 décembre (29) | Remise TP3 |
+| Mardi 19 décembre (horaire régulier) |Examen final|
+| à venir | Remise TP3 |
 
 
 ## Calendrier BW5 E23

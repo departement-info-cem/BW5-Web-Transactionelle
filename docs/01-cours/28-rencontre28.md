@@ -7,7 +7,7 @@
 
 
 ### Laboratoire:
-- S29_Lab1 MovieLand - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S29_Lab1 MovieLand - Faites un *Fork* - 🔗‍💥[GitHub](https://github.com/A23ProgWebTransactionnelle/ExamenFinalFormatif)
 
 ### Travail personnel: 
 - Compléter le laboratoire 

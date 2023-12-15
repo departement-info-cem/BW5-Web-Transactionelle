@@ -10,7 +10,7 @@
 | 09 au 13 octobre | Semaine de lecture |
 | Mardi 5 décembre (24) | Remise TP2 |
 | Mardi 19 décembre (horaire régulier) |Examen final|
-| à venir | Remise TP3 |
+| Mercredi 27 décembre | Remise TP3 |
 
 
 ## Calendrier BW5 E23

@@ -13,7 +13,7 @@
 - [Tester la logique des contrôleurs dans ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/fr-fr/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0)
 
 ## Activités de la séance: 
-
+### Théorie:  
 
 ### Laboratoire: 
 - S20_Lab1 Bongo - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S20_Lab1)

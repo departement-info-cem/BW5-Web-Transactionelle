@@ -1,5 +1,9 @@
 # Rencontre 30
 
 :::caution
- Remise et correction du [TP3](/tp_Regulier/tp3)
+ Remise du TP3
 :::
+
+## Activités de la séance: 
+Travail sur le TP3
+

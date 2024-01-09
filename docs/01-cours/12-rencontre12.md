@@ -1,12 +1,11 @@
 # Rencontre 12
 
 :::caution
-- Remise du [TP1](/tp_Regulier/tp1)
+- Remise du TP1
 :::
 
 ## Examen Intra  
 Contenu Examen intra 
-
 
     GitHub
     EF

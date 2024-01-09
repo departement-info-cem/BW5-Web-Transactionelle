@@ -1,6 +1,6 @@
 # Horaire
 
-## Calendrier 3W6 A23
+<!-- ## Calendrier 3W6 A23
 ### Groupes 1010 et 1020
 | Date |          |
 | :--------------- |:---------------:|
@@ -10,16 +10,15 @@
 | 09 au 13 octobre | Semaine de lecture |
 | Mardi 5 décembre (24) | Remise TP2 |
 | Mardi 19 décembre (horaire régulier) |Examen final|
-| Mercredi 27 décembre | Remise TP3 |
+| Mercredi 27 décembre | Remise TP3 | -->
 
 
-## Calendrier BW5 E23
-### Groupe 6139
+## Calendrier BW5 H24
+### Groupe 6134
 | Date |          |
 | :--------------- |:---------------:|
-| Lundi 17 juillet | Examen intra |
-| Lundi 24 juillet au 4 août | VACANCES |
-| Lundi 7 août | Remise TP1 |
-| Mercredi 16 août | Remise TP2 |
-| Mercredi 23 août|Examen final|
-| Lundi 28 août | Remise TP3 |
+| Mercredi 31 janvier | Examen intra |
+| Mercredi 31 janvier | Remise TP1 |
+| Vendredi 16 février | Remise TP2 |
+| Vendredi 23 février | Examen final |
+| Lundi 26 février | Remise TP3 |

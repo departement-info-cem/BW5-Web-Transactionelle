@@ -2,7 +2,7 @@
 
 :::caution
 
-Examen final 19 décembre (horaire régulier)
+Examen final
 
 :::
 

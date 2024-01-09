@@ -1,21 +1,23 @@
 # Rencontre 26
 
 ## Contenu
-- Pratique (révision)  
-  - I18n  
-  - Javascript/JQuery Ajax  
-  - Ilogger  
-  - Views complexes, ViewModels  
-- Services: règles d'affaires 
+- - Révision: Trouver l'erreur
+    - Liaisons: propriétés de navigation 
+    - Views, ViewModels  
+    - Services (règles d’affaires) 
+    - Authentification
+    - Autorisations
+    - Tests unitaires
+    - I18n  
+    - Javascript/JQuery Ajax  
+    - Ilogger  
+    - Views complexes, ViewModels  
+    - Services: règles d'affaires 
 
-## Ressources et documentation: 
-
-
-#### Complémentaire: 
 
 
 ## Activités de la séance: 
-### Laboratoire: 
+### Laboratoires: 
 - S26_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 - S26_Lab2 JQuery Ajax - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 - 

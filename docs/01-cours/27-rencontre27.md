@@ -1,26 +1,11 @@
 # Rencontre 27
 
-## Contenu
-- Déploiement  
-- Révision: Trouver l'erreur
-    - Liaisons: propriétés de navigation 
-    - Views, ViewModels  
-    - Services (règles d’affaires) 
-    - Authentification
-    - Autorisations
-    - Tests unitaires
-
-## Ressources et documentation: 
-
-
-#### Complémentaire:
-
 
 ## Activités de la séance: 
-
+- Examen formatif
 
 ### Laboratoire:
-- S27_Lab1 MovieLand - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S27_Examen_Formatif - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire 

@@ -89,26 +89,21 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Sources",
+            title: "Github Repositories",
             items: [
               {
-                title: "Github Repositories",
-                items: [
-                  {
-                    label: "Groupe 6139",
-                    href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
-                  },
-                  {
-                    label: "Groupes 1010-1020",
-                    href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
-                  }
-                ],
+                label: "Groupe 6139",
+                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
               },
+              {
+                label: "Groupes 1010-1020",
+                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
+              }
             ],
+
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. ${siteConfig.nom
-          }. CÉGEP Édouard-Montpetit.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. ${siteConfig.nom}. CÉGEP Édouard-Montpetit.`,
       },
       // Décommenter et remplir pour activer l'indexation des pages par le moteur de recherche local
       // algolia: {

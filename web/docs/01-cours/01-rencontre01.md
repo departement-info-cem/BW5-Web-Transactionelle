@@ -30,7 +30,7 @@
 ## Activités de la séance
 
 ### Théorie:
-- [Plan du cours](https://cegepedouardmontpetit-my.sharepoint.com/:b:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PC_2023A_420-3W6-EM_D%C3%A9partement-informatique.pdf?csf=1&web=1&e=21eeLp)
+- [Plan du cours](https://cegepedouardmontpetit-my.sharepoint.com/personal/valerie_turgeon_cegepmontpetit_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvalerie%5Fturgeon%5Fcegepmontpetit%5Fca%2FDocuments%2F420%5F3W6%5FSITE%2FPC%5F2024H%5F420%2DBW5%2DEM%5FProgrammationWebTransac%5FV%2ETURGEON%2Epdf&parent=%2Fpersonal%2Fvalerie%5Fturgeon%5Fcegepmontpetit%5Fca%2FDocuments%2F420%5F3W6%5FSITE)
 - [S01 A_Fonctionnement.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S01A_Fonctionnement.pptx?d=w7e0f07d770d643359d22d144958cb8c6&csf=1&web=1&e=wup8XS)
 - [S01 B_Git_GitHub_GitKraken.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S01B_Git_GitHub_GitKraken.pptx?d=w74e930702639447db13a5e81fbfa6f5b&csf=1&web=1&e=RBftVP)
 - [S01 C_CreationProjetMVC.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S01C_CreationProjetMVC.pptx?d=w162438107bab4dbcbfb6aa105219d786&csf=1&web=1&e=poUsdD)

@@ -18,7 +18,7 @@
 | Date |          |
 | :--------------- |:---------------:|
 | Mercredi 31 janvier | Examen intra |
-| Mercredi 31 janvier | Remise TP1 |
-| Vendredi 16 février | Remise TP2 |
-| Vendredi 23 février | Examen final |
-| Lundi 26 février | Remise TP3 |
+| Dimanche février | Remise TP1 |
+| Dimanche 25 février | Remise TP2 |
+| Vendredi 1er mars | Examen final |
+| Dimanche 3 mars | Remise TP3 |

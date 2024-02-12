@@ -17,8 +17,8 @@
 ### Groupe 6134
 | Date |          |
 | :--------------- |:---------------:|
-| Mercredi 31 janvier | Examen intra |
-| Dimanche février | Remise TP1 |
+| Jeudi 15 février | Examen intra |
+| Dimanche 18 février | Remise TP1 |
 | Dimanche 25 février | Remise TP2 |
 | Vendredi 1er mars | Examen final |
 | Dimanche 3 mars | Remise TP3 |

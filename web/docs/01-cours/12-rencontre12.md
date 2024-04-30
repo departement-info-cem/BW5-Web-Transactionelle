@@ -1,8 +1,5 @@
 # Rencontre 12
 
-:::caution
-- Remise du TP1
-:::
 
 ## Examen Intra  
 Contenu Examen intra 

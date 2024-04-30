@@ -1,4 +1,7 @@
 # Rencontre 13
+:::caution
+- Remise du TP1
+:::
 
 ## Contenu
 - Views et Controllers auto-générés 

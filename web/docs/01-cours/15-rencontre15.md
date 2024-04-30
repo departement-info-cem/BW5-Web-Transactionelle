@@ -3,6 +3,7 @@
 ## Contenu
 - Introduction à Javascript 
 - Introduction à JQuery
+- HotReload
 
 ## Ressources et documentation: 
 - [Exemples W3Schools HTML](https://www.w3schools.com/js/js_examples.asp) 

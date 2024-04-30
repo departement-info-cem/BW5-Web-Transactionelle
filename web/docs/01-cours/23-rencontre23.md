@@ -1,6 +1,7 @@
 # Rencontre 23
 
 ## Contenu
+- Javascript/Jquery Ajax
 - Pratique/Révision
     - Authentification
     - Autorisations

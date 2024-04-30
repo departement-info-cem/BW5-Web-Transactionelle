@@ -1,7 +1,7 @@
 # Rencontre 26
 
 ## Contenu
-- - Révision: Trouver l'erreur
+- Révision: Trouver l'erreur
     - Liaisons: propriétés de navigation 
     - Views, ViewModels  
     - Services (règles d’affaires) 
@@ -20,6 +20,6 @@
 ### Laboratoires: 
 - S26_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 - S26_Lab2 JQuery Ajax - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
-- 
+
 ### Travail personnel: 
 - Compléter les laboratoires 

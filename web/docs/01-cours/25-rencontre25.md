@@ -1,20 +1,11 @@
-# Rencontre 25
-
-## Contenu
-- Déploiement  
-- Révision: 
-    - Liaisons: propriétés de navigation 
-    - Views, ViewModels  
-    - Services (règles d’affaires) 
-    - Authentification
-    - Autorisations
-    - Tests unitaires
-
+## TP
 
 ## Activités de la séance: 
-### Laboratoire:
-- S25_Lab1 Révision - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+### Laboratoire: 
+Travail pratique 3 suite
+- Groupes Réguliers: 1010 et 1020: [TP3](/tp_Regulier/tp3)
+- Groupe Formation continue 6134: [TP3](/tp_FC/tp3)
+
 
 ### Travail personnel: 
-- Compléter le laboratoire 
-
+- Compléter le laboratoire TP3

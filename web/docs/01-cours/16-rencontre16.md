@@ -2,6 +2,8 @@
 
 ## Contenu
 - Révision
+- - Services
+- - JavaScript JQuery
 
 ## Activités de la séance: 
 ### Laboratoire: 

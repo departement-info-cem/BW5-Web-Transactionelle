@@ -45,6 +45,5 @@
 Ces liens sont également toujours facilement accessible au bas de la page
 
 
-
 ### Travail personnel: 
 - Compléter les laboratoires

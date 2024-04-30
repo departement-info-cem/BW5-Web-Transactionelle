@@ -6,5 +6,8 @@ Présentation du Travail pratique 2
 - Groupe Formation continue 6134: [TP2](/tp_FC/tp2)
 
 ## Activités de la séance: 
-### Laboratoires: 
+### Laboratoire: 
 Travail sur le TP2
+
+### Travail personnel: 
+- Compléter le TP2

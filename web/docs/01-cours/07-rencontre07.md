@@ -1,9 +1,9 @@
 # Rencontre 07
 
 ## TP
-Présentation du Travail pratique 1
-- Groupes Régulier: 1010 et 1020: [TP1](/tp_Regulier/tp1)
-- Groupe Formation continue 6134: [TP1](/tp_FC/tp1)
+- Présentation du Travail pratique 1
+    - Groupes Régulier: 1010 et 1020: [TP1](/tp_Regulier/tp1)
+    - Groupe Formation continue 6134: [TP1](/tp_FC/tp1)
 
 ## Activités de la séance: 
 

@@ -2,10 +2,9 @@
 
 ## Contenu
 - Views et Controllers auto-générés 
-- Validations complexes CRUD Révision: 
-  - ViewsModels vs Models  
-  - Views Spéciales 
-  - Traduction pour les validateurs
+- Dédoublement logique d'affaires dans les controllers 
+- - Services: règles d'affaires
+- i18n: Traduction pour les validateurs
 
 ## Ressources et documentation: 
 

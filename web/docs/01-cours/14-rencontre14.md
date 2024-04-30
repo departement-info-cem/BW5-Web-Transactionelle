@@ -1,8 +1,7 @@
 # Rencontre 14
 
 ## Contenu
-- Dédoublement logique d'affaires dans les controllers 
-- Services: règles d'affaires
+- Services: règles d'affaires complexes
 - Javascript et JQuery: Découverte
 
 ## Ressources et documentation: 

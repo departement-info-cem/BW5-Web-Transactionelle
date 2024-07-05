@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.1.0">
 <title data-rh="true">Rencontre 09 | BW5 - Programmation Web Transactionnelle</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://info.cegepmontpetit.ca/BW5-Web-Transactionelle/cours/rencontre09"><meta data-rh="true" property="og:locale" content="fr"><meta data-rh="true" name="docusaurus_locale" content="fr"><meta data-rh="true" name="docsearch:language" content="fr"><meta data-rh="true" name="keywords" content="BW5 - Programmation Web Transactionnelle, Site de référence du cours de Programmation Web Transactionnelle pour la formation continue, informatique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Rencontre 09 | BW5 - Programmation Web Transactionnelle"><meta data-rh="true" name="description" content="Contenu"><meta data-rh="true" property="og:description" content="Contenu"><link data-rh="true" rel="icon" href="/BW5-Web-Transactionelle/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://info.cegepmontpetit.ca/BW5-Web-Transactionelle/cours/rencontre09"><link data-rh="true" rel="alternate" href="https://info.cegepmontpetit.ca/BW5-Web-Transactionelle/cours/rencontre09" hreflang="fr"><link data-rh="true" rel="alternate" href="https://info.cegepmontpetit.ca/BW5-Web-Transactionelle/cours/rencontre09" hreflang="x-default"><link rel="stylesheet" href="/BW5-Web-Transactionelle/assets/css/styles.187da608.css">
-<script src="/BW5-Web-Transactionelle/assets/js/runtime~main.b6f166e3.js" defer="defer"></script>
+<script src="/BW5-Web-Transactionelle/assets/js/runtime~main.5581e1f0.js" defer="defer"></script>
 <script src="/BW5-Web-Transactionelle/assets/js/main.0e8664b2.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -12,40 +12,26 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="contenu">Contenu<a href="#contenu" class="hash-link" aria-label="Lien direct vers Contenu" title="Lien direct vers Contenu">​</a></h2>
 <ul>
 <li>Dependency Injection</li>
-<li>Internationalisation i18n concept<!-- -->
-<ul>
-<li>Globalisation</li>
-<li>Localisation</li>
-<li>Validation</li>
+<li>Contrôleurs et vues auto-générés</li>
 </ul>
-</li>
-<li>I18n Models<!-- -->
-<ul>
-<li>Traduction: messages erreurs</li>
-<li>Traduction : noms des propriétés</li>
-</ul>
-</li>
-</ul>
+<div class="theme-admonition theme-admonition-caution admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>attention</div><div class="admonitionContent_BuS1"><p>Si la génération via VS ne fonctionne pas, utilisez la commande suivante dans PowerShell</p></div></div>
+<p><code>dotnet aspnet-codegenerator identity --useDefaultUI</code></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ressources-et-documentation">Ressources et documentation:<a href="#ressources-et-documentation" class="hash-link" aria-label="Lien direct vers Ressources et documentation:" title="Lien direct vers Ressources et documentation:">​</a></h2>
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0" target="_blank" rel="noopener noreferrer">Globalisation et localisation</a></li>
-<li><a href="https://docwiki.embarcadero.com/RADStudio/Sydney/en/Language_Culture_Names,_Codes,_and_ISO_Values" target="_blank" rel="noopener noreferrer">Liste des cultures</a></li>
+<li><a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-8.0" target="_blank" rel="noopener noreferrer">MSDN: Dependency Injection</a></li>
+<li><a href="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-8.0" target="_blank" rel="noopener noreferrer">MSDN: Session state</a></li>
 </ul>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="complémentaire">Complémentaire:<a href="#complémentaire" class="hash-link" aria-label="Lien direct vers Complémentaire:" title="Lien direct vers Complémentaire:">​</a></h4>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="activités-de-la-séance">Activités de la séance:<a href="#activités-de-la-séance" class="hash-link" aria-label="Lien direct vers Activités de la séance:" title="Lien direct vers Activités de la séance:">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="théorie">Théorie:<a href="#théorie" class="hash-link" aria-label="Lien direct vers Théorie:" title="Lien direct vers Théorie:">​</a></h3>
 <ul>
-<li>🔗<a href="https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S09A_DependencyInjection.pptx?d=w0bc63b38039c42c68ab4f83c0db65623&amp;csf=1&amp;web=1&amp;e=kn2iSJ" target="_blank" rel="noopener noreferrer">09_A_DependencyInjection.pptx</a></li>
-<li>🔗<a href="https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S09_i18n_Models.pptx?d=w7b3501695c81405f86b22a694d378c31&amp;csf=1&amp;web=1&amp;e=NYos5f" target="_blank" rel="noopener noreferrer">S09_B_i18n_Models.pptx</a></li>
+<li>🔗<a href="/BW5-Web-Transactionelle/cours/BRISE">09_A_DependencyInjection.pptx</a></li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="démo">Démo:<a href="#démo" class="hash-link" aria-label="Lien direct vers Démo:" title="Lien direct vers Démo:">​</a></h3>
-<ul>
-<li>S09_Demo1 CrazyBooks i18n - Faites un <em>Fork</em> - 🔗<a href="https://github.com/ProgWebTransFC/S09_Demo1" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-</ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="laboratoire">Laboratoire:<a href="#laboratoire" class="hash-link" aria-label="Lien direct vers Laboratoire:" title="Lien direct vers Laboratoire:">​</a></h3>
 <ul>
-<li>S09_Lab1 DependencyInjections ZombieParty - Faites un <em>Fork</em> - 🔗<a href="https://github.com/ProgWebTransFC/S09_Lab1" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-<li>S09_Lab2 ZombieParty - Faites un <em>Fork</em> - 🔗<a href="https://github.com/ProgWebTransFC/S09_Lab2" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+<li>S09_Lab1 DependencyInjections ZombieParty - Faites un <em>Fork</em> - 🔗<a href="/BW5-Web-Transactionelle/cours/BRISE">GitHub</a></li>
+<li>S09_Lab2 Auto-générés ZombieParty - Faites un <em>Fork</em> - 🔗<a href="/BW5-Web-Transactionelle/cours/BRISE">GitHub</a></li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="travail-personnel">Travail personnel:<a href="#travail-personnel" class="hash-link" aria-label="Lien direct vers Travail personnel:" title="Lien direct vers Travail personnel:">​</a></h3>
 <ul>

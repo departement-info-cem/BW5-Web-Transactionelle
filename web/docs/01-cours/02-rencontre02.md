@@ -21,15 +21,16 @@
 
 ## Activités de la séance: 
 ### Théorie
-- 🔗[S02 A_Views_ViewModels.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S02A_Views_ViewModels.pptx?d=we554a8f529314675953c7230853ca1c1&csf=1&web=1&e=YJW8bC)
-- 🔗[S02 B_Annotations.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S02_B_Annotations.pptx?d=w19153a5d131c4f6aae8730dea6397ab1&csf=1&web=1&e=31gMfP)
-- 🔗[S02 C_Modelisation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S02_C_Modelisation.pptx?d=w863b515b302f4320941c9b680df0ecee&csf=1&web=1&e=R3HkOG)
+- 🔗[S02A_Modelisation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S02A_Modelisation.pptx?d=wd0ae601f55c04b8e95ff725690247404&csf=1&web=1&e=aIZKT5)
+- 🔗[S02B_Views_ViewModels.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S02B_Views_ViewModels.pptx?d=wc999ac8d3c9f4c6eba151057fbb1cb9c&csf=1&web=1&e=TbvIDz)
+- 🔗[S02C_Annotations.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S02C_Annotations.pptx?d=w0dc78a8e01a443e5a954fb12c7c3f470&csf=1&web=1&e=2Fh8S3)
+
 ### Démo:
-- S02_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Demo1.git)
+- S02_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S02_Demo1)
 
 ### Laboratoire:
-- S02_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Lab1.git)
-- S02_Lab2 Classes UML - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Lab2)
+- S02_Lab1 Classes UML - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S02_Lab1)
+- S02_Lab2 ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S02_Lab2)
 
 ### Travail personnel: 
 - Compléter les laboratoires

@@ -1,5 +1,9 @@
 # Rencontre 15
 
+:::caution
+- Remise du TP1
+:::
+
 ## Contenu
 - Introduction à Javascript 
 - Introduction à JQuery

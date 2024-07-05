@@ -1,10 +1,14 @@
 # Rencontre 22
 
+:::caution
+- Remise du TP2
+:::
+
 ## Contenu
-- Autorisations types: 
-  - Par rôle 
-  - Seed rôles (Initializer) 
-- Annotations dans les Controllers
+- Internationalisation i18n 
+  - Traduction Views
+  - Traduction ViewModels
+- i18n: Traduction pour les validateurs
 
 ## Ressources et documentation: 
 
@@ -13,11 +17,15 @@
 
 ## Activités de la séance: 
 ### Théorie: 
-- 🔗‍💥[S22_Autorisations.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S22_Autorisations.pptx?d=wd63bf47004ee492b895c8b10b3585b01&csf=1&web=1&e=EdAHhm) 
+- 🔗[S22_Generer les vues i18nValidateurs.pptx](BRISE)
 
 
-## Laboratoire: 
-- S22_Lab1 ZombieParty - Faites un *Fork* - 🔗‍💥[GitHub](https://github.com/ProgWebTransFC/S22_Lab1)
+### Démo:
+- S22_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+
+### Laboratoire: 
+- S22_Lab1 i18n Views ViewModels ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S22_Lab2 i18n validateurs ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

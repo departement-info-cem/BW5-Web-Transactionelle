@@ -1,9 +1,23 @@
 # Rencontre 30
 
 :::caution
- Remise du TP3
+
+Examen final
+
 :::
 
-## Activités de la séance: 
-Travail sur le TP3
+## Examen
+Contenu Examen final 
 
+    Entity Framework
+    Services
+    Dependency Injections (DI)
+    Relations
+    Annotations
+    Validations
+    Tests unitaires
+    i18n
+    ViewModels
+    Views
+    Authentification
+    Autorisations

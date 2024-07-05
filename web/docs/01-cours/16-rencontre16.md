@@ -1,13 +1,20 @@
 # Rencontre 16
 
 ## Contenu
-- Révision
-- - Services
-- - JavaScript JQuery
+- JavaScript et JQuery retour sur les librairies
+    -  SummerNote
+    - Toastr
+
+- Seed: Bogus
+
+## Ressources et documentation:
+- [Bogus: Faker](https://github.com/bchavez/Bogus)
+
 
 ## Activités de la séance: 
 ### Laboratoire: 
-- S16_Lab1 Presse-mots - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S16_Lab1)
+- S16_Lab1 Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S16_Lab2 Bogus Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

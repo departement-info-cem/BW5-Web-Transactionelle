@@ -1,22 +1,27 @@
 # Rencontre 20
 
 ## Contenu
-- Pratique Tests unitaires avec moq:   
-    - Tests de views, viewsModels   
-    - Tests de controllers
-- Attribut personnalisé
-    - Créer un attribut personnalisé
-    - Tests attribut personnalisé
+- Internationalisation i18n concept 
+  - Globalisation 
+  - Localisation 
+  - Validation 
+- I18n Models 
+  - Traduction: messages erreurs 
+  - Traduction : noms des propriétés
 
 ## Ressources et documentation: 
-- [Tests unitaires C#](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
-- [Tester la logique des contrôleurs dans ASP.NET Core | Microsoft Learn](https://learn.microsoft.com/fr-fr/aspnet/core/mvc/controllers/testing?view=aspnetcore-6.0)
+- [Globalisation et localisation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) 
+- [Liste des cultures](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Language_Culture_Names,_Codes,_and_ISO_Values)
 
 ## Activités de la séance: 
-### Théorie:  
+### Théorie:
+- 🔗[S20_B_i18n_Models.pptx](BRISE)
+
+### Démo:
+- S20_Demo1 CrazyBooks i18n - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S20_Lab1 Bongo - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S20_Lab1)
+- S20_Lab2 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

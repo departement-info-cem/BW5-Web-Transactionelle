@@ -26,8 +26,8 @@
 
 
 ### Laboratoire: 
-- S06_Lab1 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S06_Lab1)
-- S06_Lab2 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S06_Lab2)
+- S06_Lab1 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S06_Lab2 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 
 ### Travail personnel: 

@@ -16,14 +16,15 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S04 A_Linq.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S04A_Linq.pptx?d=w499d9bd24ea9406db3ae1430f88fa627&csf=1&web=1&e=6a44wK)
-- 🔗[S04 B_Seed.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S04B_Seed.pptx?d=w3d00d4c7609246cba6fde8666a053c96&csf=1&web=1&e=ztGxSf)
+- 🔗[S04 A_Linq.pptx](BRISE)
+- 🔗[S04 B_Seed.pptx](BRISE)
 
 ### Démo guidée:
-- S04_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S04_Demo1)
+- S04_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S04_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S04_Lab1)
+- S04_Lab1 Linq ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Lab2 Seed ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le Laboratoire

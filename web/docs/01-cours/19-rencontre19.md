@@ -1,9 +1,7 @@
 # Rencontre 19
 
 ## Contenu
-- Tests unitaires avec moq:   
-  - Tests de services (Règles d'affaires) 
-  - Debug de tests 
+- Tableaux de bord de gestion
 
 ## Ressources et documentation: 
 
@@ -12,11 +10,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S19_TU_Moq](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S19_Moq.pptx?d=w6e075120bf8e41dd86306ef078ec27c9&csf=1&web=1&e=qS6sqa)
+- 🔗[S19_TDB](BRISE)
 
+### Démo:
+- S19_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire:
-- S19_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S19_Lab1)
+- S19_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](hBRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires 

@@ -2,7 +2,14 @@
 
 ## Contenu
 - Services: règles d'affaires complexes
-- Javascript et JQuery: Découverte
+- Révision: Trouver l'erreur
+    - Liaisons: propriétés de navigation 
+    - Services (règles d’affaires) 
+    - I18n  
+    - Javascript/JQuery Ajax
+    - Views complexes, ViewModels  
+    - Services: règles d'affaires 
+
 
 ## Ressources et documentation: 
 
@@ -12,16 +19,14 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S14 Les services.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S14%20Les%20services.pptx?d=wbd496f9e4b574b65aa8176ae1aca4aad&csf=1&web=1&e=JkeUMr)
+- 🔗[S14 Les services.pptx](BRISE)
 
 
 ### Laboratoire:  
-- S14_Lab1 Services ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S14_Lab1)
-- W3School JavaScript- 🔗[w3School-Javascript](https://www.w3schools.com/js/default.asp)
-- W3School JQuery- 🔗[w3School-JQuery](https://www.w3schools.com/js/default.asp)
+- S14_Lab1 Services ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+
 
 
 
 ### Travail personnel:
 - Compléter les laboratoires
-- Faire les exercices JavaScript et JQuery sur W3School en prévision de la rencontre 15

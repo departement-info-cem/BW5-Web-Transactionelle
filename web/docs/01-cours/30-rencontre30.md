@@ -7,17 +7,15 @@ Examen final
 :::
 
 ## Examen
-Contenu Examen final 
+-Contenu Examen final 
 
-    Entity Framework
-    Services
-    Dependency Injections (DI)
-    Relations
-    Annotations
-    Validations
-    Tests unitaires
-    i18n
-    ViewModels
-    Views
-    Authentification
-    Autorisations
+  -  Entity Framework
+  -  Services
+  -  Dependency Injections (DI)
+  -  Relations
+  -  Annotations
+  -  Validations
+  -  i18n
+  -  ViewModels
+  -  Views
+  -  Sessions

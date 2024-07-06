@@ -1,9 +1,7 @@
 # Rencontre 10
 
 ## Contenu
-- Internationalisation i18n 
-  - Traduction Views
-  - Traduction ViewModels
+
 
 ## Ressources et documentation: 
 - [Globalisation et localisation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) 

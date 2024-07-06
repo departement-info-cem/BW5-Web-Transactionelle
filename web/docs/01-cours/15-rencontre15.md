@@ -17,8 +17,7 @@
 - [jQuery Plugin Registry](https://plugins.jquery.com/)  
 - [DataTables.net](https://datatables.net/)
 - [VS Hot Reload](https://learn.microsoft.com/fr-ca/visualstudio/debugger/hot-reload?view=vs-2022)
-- [Bogus: Faker](https://github.com/bchavez/Bogus)
-- [MSDN: Dependency Injection](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-6.0)
+
 
 ## Activités de la séance: 
 ### Théorie:  
@@ -26,11 +25,11 @@
 - 🔗[W3School JQuery Exercices](https://www.w3schools.com/jquery/jquery_exercises.asp)
 
 ### Démo:
-- S15_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S15_Demo)
+- S15_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-
-- S15_Lab1 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S15_Lab1)
+- S15_Lab1 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](BRISE)
+- S15_Lab2 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires

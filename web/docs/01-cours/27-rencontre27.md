@@ -2,11 +2,6 @@
 
 
 ## Activités de la séance: 
-- Révision: Trouver l'erreur
-    - Liaisons: propriétés de navigation 
-    - Views, ViewModels  
-    - Services (règles d’affaires) 
-    - Session
 - Examen formatif
 
 ### Laboratoire:

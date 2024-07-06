@@ -21,7 +21,7 @@
 - S20_Demo1 CrazyBooks i18n - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S20_Lab2 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S20_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

@@ -15,13 +15,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S05_ViewsComposees_VM_Partial.pptx](BRISE)
+- 🔗[S05_ViewsComposees_VM_Partial.pptx](C:\Users\valerie.turgeon\Desktop\BW5_E24\E24_S05_Lab1\ZombieParty)
 
 ### Démo guidée:
-- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Demo1)
 
 ### Laboratoire: 
-- S05_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
+- S05_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Lab1)
 
 
 ### Travail personnel: 

@@ -17,7 +17,7 @@
 ### Théorie:  
 - 🔗[S05_ViewsComposees_VM_Partial.pptx](C:\Users\valerie.turgeon\Desktop\BW5_E24\E24_S05_Lab1\ZombieParty)
 
-### Démo guidée:
+### Démo:
 - S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Demo1)
 
 ### Laboratoire: 

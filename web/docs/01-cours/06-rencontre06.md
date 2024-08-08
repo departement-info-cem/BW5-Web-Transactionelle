@@ -20,8 +20,8 @@
 
 ## Activités de la séance:
 ### Théorie:  
-- 🔗[S06 A_ChampsSpeciaux_Images_Notifications.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S06A_ChampsSpeciaux_Images_Notifications.pptx?d=w46043de39e8c4fd8a904479c927fc9ec&csf=1&web=1&e=Z225Ei)
-- 🔗[S06 B_Methodes_Asynchrones.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S06B_Methodes_Asynchrones.pptx?d=w1f5ad9837953496d8eed2c09e8cea848&csf=1&web=1&e=SRVnKh)
+- 🔗[S06 A_ChampsSpeciaux_Images_Notifications.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S06A_ChampsSpeciaux_Images_Notifications.pptx?d=w46043de39e8c4fd8a904479c927fc9ec&csf=1&web=1&e=JQ9lvY)
+- 🔗[S06 B_Methodes_Asynchrones.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S06B_Methodes_Asynchrones.pptx?d=w1f5ad9837953496d8eed2c09e8cea848&csf=1&web=1&e=dE0kWV)
 
 ### Démo:
 - S06_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S06_Demo1)

@@ -15,7 +15,7 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S05_ViewsComposees_VM_Partial.pptx](C:\Users\valerie.turgeon\Desktop\BW5_E24\E24_S05_Lab1\ZombieParty)
+- 🔗[S05_ViewsComposees_VM_Partial.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S05_ViewsComposees_VM_Partial.pptx?d=w13ff1f4591424812b63396613a336a1c&csf=1&web=1&e=6Dz9Di)
 
 ### Démo:
 - S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Demo1)

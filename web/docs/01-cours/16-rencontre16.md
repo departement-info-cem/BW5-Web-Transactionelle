@@ -3,7 +3,7 @@
 ## Contenu
 - Services: règles d'affaires complexes
 - Dependency Injections
-- Seed: Bogus
+
 
 ## Ressources et documentation:
 
@@ -21,8 +21,9 @@
 ## Activités de la séance: 
 
 ### Laboratoire: 
-- S16_Lab1 DI Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S16_Lab3 Bogus Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S16_Lab1 DependencyInjections ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S16_Lab2 Auto-générés ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+<!-- - S16_Lab1 DI Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE) -->
 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Compléter leS laboratoireS

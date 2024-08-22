@@ -1,12 +1,7 @@
 # Rencontre 26
 
 ## Contenu
-- Révision: Trouver l'erreur
-     - I18n  
-    - Services (règles d’affaires) 
-    - Javascript/JQuery Ajax
-    - Views complexes, ViewModels  
-    - Services: règles d'affaires 
+- Rattrapage
 
 
 ## Activités de la séance: 
@@ -15,4 +10,5 @@
 - S26_Lab1 Trouver l'erreur 2 - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
-- Compléter les laboratoires 
+- Compléter le laboratoire
+- Avancer le TP2

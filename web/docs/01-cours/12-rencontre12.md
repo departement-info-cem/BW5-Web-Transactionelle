@@ -1,16 +1,10 @@
 # Rencontre 12
 
+## Activités de la séance: 
+- Examen intra formatif
 
-## Examen Intra  
-Contenu Examen intra 
+### Laboratoire:
+- S12_Examen_Intra_Formatif - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
-    GitHub
-    EF
-    Views
-    PartialViews
-    ViewModels
-    TagHelper
-    Annotations
-    Validation
-    Asynchrones
-    Dependency Injections 
+### Travail personnel: 
+- Compléter l'examen intra formatif

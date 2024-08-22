@@ -1,15 +1,28 @@
 # Rencontre 24
 
-## TP
+## Contenu
+- Internationalisation i18n 
+  - Traduction Views
+  - Traduction ViewModels
+- i18n: Traduction pour les validateurs
 
-Présentation du Travail pratique 3
-- Groupes Réguliers: 1010 et 1020: [TP3](/tp_Regulier/tp3)
-- Groupe Formation continue 6134: [TP3](BRISE)
+## Ressources et documentation: 
+
+#### Complémentaire: 
+
+
 
 ## Activités de la séance: 
-### Laboratoire: 
-Travail sur le TP3
+### Théorie: 
+- 🔗[S24_Generer les vues i18nValidateurs.pptx](BRISE)
 
+
+### Démo:
+- S24_Demo1 CrazyBooks - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+
+### Laboratoire: 
+- S24_Lab1 i18n Views ViewModels ZombieParty - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S24_Lab2 i18n validateurs ZombieParty - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
-- Continuer le laboratoire TP3
+- Compléter les laboratoires

@@ -1,11 +1,13 @@
+# Rencontre 25
 ## TP
 
 ## Activités de la séance: 
+
 ### Laboratoire: 
-Travail pratique 3 suite
-- Groupes Réguliers: 1010 et 1020: [TP3](/tp_Regulier/tp3)
-- Groupe Formation continue 6404: [TP3](BRISE)
+Travail pratique 2
+- Groupes Réguliers: 1010, 1020 et 1030: [TP2](/tp_Regulier/tp2)
+- Groupe Formation continue 6404: [TP2](/tp_FC/tp2)
 
 
 ### Travail personnel: 
-- Compléter le laboratoire TP3
+- Avancer le TP2

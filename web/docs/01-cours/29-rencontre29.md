@@ -1,8 +1,9 @@
 # Rencontre 29
 
 :::caution
- Remise du TP3
+ Remise du TP2
 :::
 
 ## Activités de la séance: 
-Travail sur le TP3
+-Correction en classe de l'examen formatif
+-Travail sur le TP2

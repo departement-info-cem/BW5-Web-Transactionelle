@@ -10,8 +10,9 @@
 
 
 ## Activités de la séance: 
+
 ### Laboratoires: 
-- S26_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S26_Lab1 Trouver l'erreur 2 - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires 

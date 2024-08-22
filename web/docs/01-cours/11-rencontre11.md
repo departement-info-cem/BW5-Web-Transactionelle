@@ -2,13 +2,19 @@
 
 ## Contenu
 - Révision pour l'examen intra
+    - Liaisons: propriétés de navigation
+    - Linq
+    - Services (règles d’affaires) 
+    - Views complexes, ViewModels 
+
 
 ## Activités de la séance
   - Wooclap!!
 
-
  ### Laboratoire: 
-- S11_Formatif Intra - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S11_Intra_Formatif)
+- S11_Lab1 Trouver l'erreur 2 - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+
 
 ### Travail personnel: 
-- Révision en prévision de l'examen et terminé le TP1
+- Étudier en prévision de l'examen
+- Avancer le TP1

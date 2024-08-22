@@ -1,7 +1,11 @@
 # Rencontre 19
 
 ## Contenu
-- Tableaux de bord de gestion
+Suite...
+- Introduction à Javascript 
+- Introduction à JQuery
+- HotReload
+
 
 ## Ressources et documentation: 
 
@@ -9,14 +13,12 @@
 
 
 ## Activités de la séance: 
-### Théorie:  
-- 🔗[S19_TDB](BRISE)
 
 ### Démo:
-- S19_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S19_Demo1 CrazyBooks - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Laboratoire:
-- S19_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S19_Lab1 ZombieParty - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires 

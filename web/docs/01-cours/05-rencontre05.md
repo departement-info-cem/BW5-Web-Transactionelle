@@ -1,28 +1,29 @@
 # Rencontre 05
 
 ## Contenu
-- Modèles de classes de base (un à un, un à plusieurs) :
-- Views :  ViewModels 
-- Partial views 
+- Validations supplémentaires :
+  - Conventions et annotations de validation 
+  - TagHelpers 
+- CRUD dans Controller
+- Linq
 
 ## Ressources et documentation: 
+- [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+- [MSDN EF MVC CRUD](https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud?view=aspnetcore-8.0)
 
-#### Complémentaire: 
-- [Méthodes d'extensions](https://docs.microsoft.com/fr-ca/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
-- [MSDN Partial Views](https://docs.microsoft.com/fr-ca/dotnet/framework/data/adonet/ef/language-reference/queries-in-linq-to-entities)
-- [MSDN Views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-6.0)
-- [MSDN View Models](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-6.0#strongly-typed-data-viewmodel) 
+#### Complémentaire:
+
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S05_ViewsComposees_VM_Partial.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S05_ViewsComposees_VM_Partial.pptx?d=w13ff1f4591424812b63396613a336a1c&csf=1&web=1&e=6Dz9Di)
+- 🔗[S05 A_Linq.pptx](BRISE)
+- 🔗[S05 B_Seed.pptx](BRISE)
 
-### Démo:
-- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Demo1)
+### Démo guidée:
+- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S05_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S05_Lab1)
-
+- S05_Lab1 Linq ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Compléter le Laboratoire

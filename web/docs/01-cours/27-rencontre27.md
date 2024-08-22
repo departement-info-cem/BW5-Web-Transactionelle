@@ -1,11 +1,15 @@
 # Rencontre 27
 
-
 ## Activités de la séance: 
-- Examen formatif
+- Révision: 
+     - I18n  
+    - Services (règles d’affaires) 
+    - Javascript/JQuery Ajax
+    - Views complexes, ViewModels  
+    - Services: règles d'affaires 
 
-### Laboratoire:
-- S27_Examen_Formatif - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+### Laboratoires: 
+- S27_Lab1 BookLibrary - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
-- Compléter le laboratoire 
+- Compléter les laboratoires incomplets

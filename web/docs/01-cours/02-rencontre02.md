@@ -22,6 +22,7 @@
 - 🔗[S02B_Annotations.pptx](BRISE)
 
 ### Démo:
+- Démonstration guidée Utilisation de Git Fork client - pas de repo de départ
 - S02_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire:

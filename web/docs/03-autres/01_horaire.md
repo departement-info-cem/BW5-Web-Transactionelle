@@ -14,9 +14,10 @@
 ### Groupes 1030
 | Date |          |
 | :--------------- |:---------------:|
+| Lundi 02 septembre | Férié |
 | Jeudi 05 septembre | HORAIRE DU LUNDI |
-| Vendredi 06 octobre (12) | Examen intra |
-| Vendredi 06 octobre (12) | Remise TP1 |
+| Lundi 07 octobre (12) | Examen intra |
+| Jeudi 10 octobre (12) | Remise TP1 |
 |  14 au 18 octobre | Semaine de lecture |
 | 12-13-17 ou 18 décembre (Examens communs) |Examen final|
 | Jeudi 19 décembre | Remise TP2 |

@@ -13,14 +13,14 @@
 
 ## Activités de la séance: 
 ### Théorie
-- 🔗[S03_Modelisation.pptx](BRISE)
+- 🔗[S03_Modelisation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S03A_Modelisation.pptx?d=wd0ae601f55c04b8e95ff725690247404&csf=1&web=1&e=Fzid8q)
 
 
 ### Démo:
 - S03_Demo1  - pas de repo de départ
 
 ### Laboratoire:
-- S03_Lab1 Classes UML - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S03_Lab1 Classes UML - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S03_Lab1)
 
 
 ### Travail personnel: 

@@ -16,15 +16,16 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S04 A_EntityFramework.pptx](BRISE)
-- 🔗[S04 B_liaisons propNavigation.pptx](BRISE)
+- 🔗[S04 A_EntityFramework.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S04A_EntityFramework.pptx?d=w9d53625c0e8143c9914c8602eaefa07e&csf=1&web=1&e=AhvLIa)
+- 🔗[S04 B_liaisons propNavigation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S04B_liaisons%20propNavigation.pptx?d=w32ef00833c314e188b0cf9d053bdd30f&csf=1&web=1&e=kNhR8d)
 
 ### Démo:
-- S03_Demo1 Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S03_Demo2 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Demo1 Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Demo2 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S03_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Lab1 Exercices EF Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Lab2 ZombieParty EF - Faites un *Fork* - 🔗[GitHub](BRISE)
  
 ### Travail personnel: 
 - Compléter le laboratoire

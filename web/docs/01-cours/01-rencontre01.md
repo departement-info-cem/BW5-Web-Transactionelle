@@ -44,7 +44,7 @@
 - S01_Demo1 CrazyBooks   Faites un *Fork* 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S01_Demo1)
 
 ### Laboratoires:
-- S01_Lab1 ZombieParty  Faites un *Fork* 🔗[GitHub](hhttps://github.com/ProgWebTransFC/A24_S01_Lab1)
+- S01_Lab1 ZombieParty  Faites un *Fork* 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S01_Lab1)
 
 
 ### Travail personnel: 

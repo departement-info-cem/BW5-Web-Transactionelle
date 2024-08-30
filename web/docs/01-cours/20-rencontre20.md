@@ -15,6 +15,7 @@
 - [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
 - [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
 - [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
+- [DataTables.net](https://datatables.net/)
 
 #### Complémentaire: 
 - [SweetAlert2(Notifications)](https://sweetalert2.github.io/)

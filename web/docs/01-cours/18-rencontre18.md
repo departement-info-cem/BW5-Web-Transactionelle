@@ -1,7 +1,6 @@
 # Rencontre 18
 
 ## Contenu
-- Introduction à Javascript 
 - Introduction à JQuery
 - HotReload
 
@@ -12,13 +11,14 @@ Présentation du Travail pratique 2
 
 ## Activités de la séance: 
 ### Théorie: 
+- 🔗[S18_JQuery.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S18_jQuery.pptx?d=w9d16dcf5780a4283bae21df19e00186d&csf=1&web=1&e=fc5y22)
 - [JQuery](https://api.jquery.com/)
 - [jQuery Plugin Registry](https://plugins.jquery.com/)  
-- [DataTables.net](https://datatables.net/)
+
 
 
 ### Démo:
-- S18_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S18_Demo1 JavaScript JQuery - Faites un *Fork* - 🔗[GitHub](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S18_jQuery.pptx?d=w9d16dcf5780a4283bae21df19e00186d&csf=1&web=1&e=fc5y22)
 
 ### Laboratoire: 
 - 🔗[W3School JQuery Exercices](https://www.w3schools.com/jquery/jquery_exercises.asp)

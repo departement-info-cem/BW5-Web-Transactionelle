@@ -6,7 +6,7 @@
   - Diagrammes de classes UML
 
 ## Ressources et documentation: 
-- 🔗[Rappel BD Relations.pdf](https://cegepedouardmontpetit-my.sharepoint.com/:b:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/Rappel_BD_Relations.pdf?csf=1&web=1&e=3QokeE)
+- 🔗[Rappel BD Relations.pdf](https://cegepedouardmontpetit-my.sharepoint.com/:b:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/Rappel_BD_Relations.pdf?csf=1&web=1&e=GlSaAx)
  
 #### Complémentaire: 
 

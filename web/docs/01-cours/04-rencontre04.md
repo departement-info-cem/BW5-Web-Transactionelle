@@ -20,12 +20,12 @@
 - 🔗[S04 B_liaisons propNavigation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S04B_liaisons%20propNavigation.pptx?d=w32ef00833c314e188b0cf9d053bdd30f&csf=1&web=1&e=kNhR8d)
 
 ### Démo:
-- S04_Demo1 Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S04_Demo2 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Demo1 Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S04_Demo1)
+- S04_Demo2 CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S04_Demo2)
 
 ### Laboratoire: 
 - S04_Lab1 Exercices EF Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S04_Lab2 ZombieParty EF - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Lab2 ZombieParty EF - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S04_Lab2)
  
 ### Travail personnel: 
 - Compléter le laboratoire

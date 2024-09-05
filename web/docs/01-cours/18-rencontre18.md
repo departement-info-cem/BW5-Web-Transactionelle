@@ -22,7 +22,7 @@ Présentation du Travail pratique 2
 
 ### Laboratoire: 
 - 🔗[W3School JQuery Exercices](https://www.w3schools.com/jquery/jquery_exercises.asp)
-- S18_Lab2 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](BRISE)
+- S18_Lab2 JavaScript JQuery- Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S18_Lab1)
 - Travail sur le TP2
 
 ### Travail personnel: 

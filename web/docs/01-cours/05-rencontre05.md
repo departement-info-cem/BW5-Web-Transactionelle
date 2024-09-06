@@ -20,7 +20,7 @@
 - 🔗[S05 B_Seed.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S05B_Seed.pptx?d=w0d0c99dd6be145288951f22ecf680bea&csf=1&web=1&e=uOJddG)
 
 ### Démo guidée:
-- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S05_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S05_Demo1)
 
 ### Laboratoire: 
 - S05_Lab1 Linq ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S05_Lab1)

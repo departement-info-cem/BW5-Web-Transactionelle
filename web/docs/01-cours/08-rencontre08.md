@@ -20,7 +20,8 @@
 ### Démo guidée:
 - S08_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
 
-### Laboratoire: 
+### Laboratoire:
+- S04_Lab1 Exercices EF Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE) NOTE lab déplacé de séance 04 à séance 08
 - S08_Lab1 ZombieParty- Faites un *Fork* - 🔗[GitHub](BRISE)
 
 ### Travail personnel: 

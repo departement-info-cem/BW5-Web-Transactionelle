@@ -24,7 +24,7 @@
 - S04_Demo2 CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S04_Demo2)
 
 ### Laboratoire: 
-- S04_Lab1 Exercices EF Propriétés de navigation - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S04_Lab1 Exercices EF Propriétés de navigation - Déplacé dans la séance 08
 - S04_Lab2 ZombieParty EF - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S04_Lab2)
  
 ### Travail personnel: 

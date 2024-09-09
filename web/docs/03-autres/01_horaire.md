@@ -28,5 +28,5 @@
 | :--------------- |:---------------:|
 | Jeudi 15 août | Examen intra |
 | Jeudi 22 août | Remise TP1 |
-| Jeudi 19 septembre | Examen final |
-| Dimanche 22 septembre | Remise TP2 |
+| Jeudi 26 septembre | Examen final |
+| Dimanche 29 septembre | Remise TP2 |

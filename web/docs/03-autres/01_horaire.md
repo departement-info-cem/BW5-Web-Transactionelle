@@ -4,9 +4,9 @@
 ### Groupes 1010 et 1020
 | Date |          |
 | :--------------- |:---------------:|
-| Vendredi 04 octobre (13) | Examen intra |
-| Mardi 08 octobre (14) | Remise TP1 |
+| Mardi 08 octobre (13) | Examen intra |
 | 14 au 18 octobre | Semaine de lecture |
+| Mardi 22 octobre (14) | Remise TP1 |
 | Vendredi 08 novembre | Journée JR |
 | 12-13-17 ou 18 décembre (Examens communs) |Examen final|
 | Vendredi 20 décembre | Remise TP2 |
@@ -16,8 +16,8 @@
 | :--------------- |:---------------:|
 | Lundi 02 septembre | Férié |
 | Jeudi 05 septembre | HORAIRE DU LUNDI |
-| Lundi 07 octobre (12) | Examen intra |
-| Jeudi 10 octobre (12) | Remise TP1 |
+| Lundi 10 octobre (13) | Examen intra |
+| Lundi 21 octobre (14) | Remise TP1 |
 |  14 au 18 octobre | Semaine de lecture |
 | 12-13-17 ou 18 décembre (Examens communs) |Examen final|
 | Jeudi 19 décembre | Remise TP2 |

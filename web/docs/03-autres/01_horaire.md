@@ -17,8 +17,8 @@
 | Lundi 02 septembre | Férié |
 | Jeudi 05 septembre | HORAIRE DU LUNDI |
 | Lundi 10 octobre (13) | Examen intra |
-| Lundi 21 octobre (14) | Remise TP1 |
 |  14 au 18 octobre | Semaine de lecture |
+| Lundi 21 octobre (14) | Remise TP1 |
 | 12-13-17 ou 18 décembre (Examens communs) |Examen final|
 | Jeudi 19 décembre | Remise TP2 |
 

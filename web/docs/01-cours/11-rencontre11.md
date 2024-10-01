@@ -9,7 +9,7 @@
 
 
 ## Activités de la séance
-  - Wooclap!! en classe 🔗‍💥[Whooclap](https://app.wooclap.com/events/TMUIJA)
+  - Wooclap!! en classe 🔗‍💥Lien dans Teams
 
 
  ### Laboratoire: 
@@ -20,4 +20,5 @@
 ### Travail personnel: 
 - Étudier en prévision de l'examen
 - Avancer le TP1
-- Whooclap en mode individuel 🔗‍💥[Whooclap](https://app.wooclap.com/events/RAPGDR)
+- Wooclap en mode individuel 🔗‍💥[Wooclap](https://app.wooclap.com/events/XXGKIS/questions/66fc35c900e8638cbfb990a0) Code de l'événement :
+XXGKIS

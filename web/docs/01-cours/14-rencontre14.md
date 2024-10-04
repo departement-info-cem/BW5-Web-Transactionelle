@@ -8,7 +8,7 @@
 - Retour sur l'examen intra
 
 ## Activités de la séance: 
--Correction en classe de l'examen formatif
+-Correction en classe de l'examen sommatif
 -Travail sur le TP1
 
 ### Travail personnel:

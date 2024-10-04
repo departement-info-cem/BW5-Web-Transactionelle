@@ -13,12 +13,11 @@
 
 
  ### Laboratoire: 
-- S11_Lab1 Trouver l'erreur 2 - Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+- S11_Examen_Intra_Formatif - Faites un *Fork* - 🔗‍💥[GitHub](https://github.com/ProgWebTransFC/A24_S11_ExamenIntra_FORMATIF)
 
 
 
 ### Travail personnel: 
 - Étudier en prévision de l'examen
 - Avancer le TP1
-- Wooclap en mode individuel 🔗‍💥[Wooclap](https://app.wooclap.com/events/XXGKIS/questions/66fc35c900e8638cbfb990a0) Code de l'événement :
-XXGKIS
+- Wooclap en mode individuel 🔗‍💥[Wooclap](https://app.wooclap.com/auth/login?redirectTo=%2Fevents%2FXXGKIS%2Fquestions%2F66fc35c900e8638cbfb990a0) Code de l'événement : XGKIS

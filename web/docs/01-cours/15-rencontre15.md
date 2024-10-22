@@ -11,12 +11,13 @@ Si la génération via VS ne fonctionne pas, utilisez la commande suivante dans 
 `dotnet aspnet-codegenerator identity --useDefaultUI`
 
 ## Ressources et documentation: 
-
+- 🔗[Bogus Doc](https://github.com/bchavez/Bogus)
 
 ## Activités de la séance: 
 
 ### Laboratoire: 
-- S15_Lab1 Bogus Presse-mots - Faites un *Fork* - 🔗[GitHub](BRISE)
+- Consultez le ReadMe section: Examples
 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Écoutez la vidéo suivante:
+   - 🔗[Building Bogus with Brian Chavez - NET 170](https://www.youtube.com/watch?v=C1WwGKUY9K4)

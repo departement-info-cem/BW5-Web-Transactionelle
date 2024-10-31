@@ -5,7 +5,6 @@
 - HotReload
 
 ## TP
-Présentation du Travail pratique 2
 - Groupes Régulier: 1010, 1020 et 1030: [TP2](/tp_Regulier/tp2)
 - Groupe Formation continue 6404: [TP2](/tp_FC/tp2)
 
@@ -28,4 +27,3 @@ Présentation du Travail pratique 2
 ### Travail personnel: 
 - Compléter le laboratoire
 - Faire les exercices JQuery sur W3School en prévision de la prochaine rencontre
-- Avancer le TP2

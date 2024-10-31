@@ -3,6 +3,7 @@
 
 ## Activités de la séance: 
 
+
 ### Laboratoire: 
 Travail pratique 2
 - Groupes Réguliers: 1010, 1020 et 1030: [TP2](/tp_Regulier/tp2)

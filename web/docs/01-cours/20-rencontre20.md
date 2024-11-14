@@ -22,14 +22,14 @@
 
 ## Activités de la séance:
 ### Théorie:  
-- 🔗[S20_ChampsSpeciaux_Images_Notifications.pptx](BRISE)
+- 🔗[S20_ChampsSpeciaux_Images_Notifications.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/E24_PowerPoints/S20A_ChampsSpeciaux_Images_Notifications.pptx?d=w46043de39e8c4fd8a904479c927fc9ec&csf=1&web=1&e=b4rJJc)
 
 ### Démo:
 - S20_Demo CrazyBooks - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/E24_S06_Demo1)
 
 ### Laboratoire: 
-- S20_Lab1 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
-- S20_Lab2 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+- S20_Lab1 Notifications ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S20_Lab1)
+- S20_Lab2 Images-TextAreas ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/A24_S20_Lab2)
 
 
 ### Travail personnel: 

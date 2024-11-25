@@ -8,7 +8,11 @@
 | 14 au 18 octobre | Semaine de lecture |
 | Mardi 22 octobre (14) | Remise TP1 |
 | Vendredi 08 novembre | Journée JR |
-| 12-13-17 ou 18 décembre (Examens communs) |Examen final|
+| Mercredi 4 décembre 12h30 D0604 | Reprise facultative |
+| Lundi 9 décembre 8h10 D0604 | Reprise facultative |
+| Mercredi 11 décembre 12h30 D0603 | Reprise facultative |
+| Vendredi 20 décembre gr.1010  08h10 |Examen final|
+| Vendredi 20 décembre gr. 1020 12h10 |Examen final|
 | Vendredi 20 décembre | Remise TP2 |
 
 ### Groupes 1030
@@ -19,7 +23,10 @@
 | Jeudi 10 octobre (13) | Examen intra |
 |  14 au 18 octobre | Semaine de lecture |
 | Lundi 21 octobre (14) | Remise TP1 |
-| 12-13-17 ou 18 décembre (Examens communs) |Examen final|
+| Mercredi 4 décembre 12h30 D0604 | Reprise facultative |
+| Lundi 9 décembre 8h10 D0604 | Reprise facultative |
+| Mercredi 11 décembre 12h30 D0603 | Reprise facultative |
+| Jeudi 19 décembre 15h10 |Examen final|
 | Jeudi 19 décembre | Remise TP2 |
 
 ## Calendrier BW5 E24
